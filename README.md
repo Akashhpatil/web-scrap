@@ -1,5 +1,3 @@
-# web-scrap
-
 # Pinterest Image Scraper
 
 This Python script allows you to scrape image URLs from Pinterest search results based on a provided tag.
